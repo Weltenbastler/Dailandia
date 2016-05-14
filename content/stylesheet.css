@@ -13,13 +13,17 @@ body {
   background: #fff;
 }
 
+img {
+  max-width: 80%;
+}
+
 a {
   text-decoration: none;
 }
 
 .missing {
-  font-style: italic;
-  color: #3c4778 !important;
+  color: black !important;
+  border-bottom-style: dashed !important;
 }
 
 a:link,
