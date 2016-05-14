@@ -1,0 +1,9 @@
+# Komet
+
+Kometen sind Transporter für [[Monster]]. Sie nehmen starke Wächter materialisiert mit sich und fungieren ab dem Zeitpunkt des Einschlages als Tor.
+
+Neue [[Monster]] re-materialisieren sich über weite Strecken des Alls im Tor des Kometen. Die Seelen der Monster werden zwischen dem Ausgangspunkt und dem Kometen transportiert und dann re-matierialisiert. Für diesen Vorgang saugt der Komet _Ki_ aus dem umliegenden Land auf und färbt die transportierte Seele der Monster ein: so sind Monster aus dem Wald anders beschaffen als Monster aus dem Meer.
+
+Der Durchsatz hängt von der größe des Vehikels ab, sodass nicht alle Seelen zugleich transportiert werden können, sondern über Jahrhunderte durchgeschleust werden müssen. Manche Kometentore sind daher stärker als andere. 
+
+Kometentore können potenziell zerstört werden.
