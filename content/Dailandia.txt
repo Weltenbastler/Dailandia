@@ -23,6 +23,8 @@ Bevölkerung der bekannten Insel durch Nordmänner.
 
 ## Orte
 
+![Mittleres Dailandia](/img/Dailandia-mid.jpg)
+
 Neben verstreuten Gehöften und Verstecken der Zigeuner gibt es folgende bedeutende Orte:
 
 * [[Hafenstadt|DailandiaHafenstadt]] im Süden
