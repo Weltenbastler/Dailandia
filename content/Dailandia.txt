@@ -23,8 +23,6 @@ Bevölkerung der bekannten Insel durch Nordmänner.
 
 ## Orte
 
-![Mittleres Dailandia](/img/Dailandia-mid.jpg)
-
 Neben verstreuten Gehöften und Verstecken der Zigeuner gibt es folgende bedeutende Orte:
 
 * [[Hafenstadt|DailandiaHafenstadt]] im Süden
@@ -32,3 +30,9 @@ Neben verstreuten Gehöften und Verstecken der Zigeuner gibt es folgende bedeute
 * [[Kloster|DailandiaKloster]] im Osten
 * [[Felsentor]] im hohen Norden, das die Riesen und Oger einsperrt
 * [[Burg|DailandiaBurg]] im kühleren Nordwesten. Erbaut durch den [[Avatar]]. Späterer Sitz der Amazonen.
+
+### Karte von Dailandia um 500
+
+Die Karte zeigt Dailandia nach der [[Großen Panik|GrossePanik]]. Der Sitz von Zacharias liegt in Ruinen und der Norden ist bloß spärlich besiedelt.
+
+![Mittleres Dailandia](/img/Dailandia-mid.jpg)
