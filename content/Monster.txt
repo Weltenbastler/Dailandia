@@ -1,6 +1,6 @@
 # Monster
 
-"Monster" bezeichnet umheimliche Lebewesen. Genauer sind damit schreckliche Wesen aus dem All gemeint, die den Planeten besiedeln. Sie haben das unter Menschen als "[[GroßePanik]]" bekannte historische Ereignis ausgelöst und damit eine Umwälzung der bis dahin bestehenden Strukturen herbeigeführt: Völker wurden vernichtet, Landstriche verwüstet.
+"Monster" bezeichnet umheimliche Lebewesen. Genauer sind damit schreckliche Wesen aus dem All gemeint, die den Planeten besiedeln. Sie haben das unter Menschen als "[[GrossePanik]]" bekannte historische Ereignis ausgelöst und damit eine Umwälzung der bis dahin bestehenden Strukturen herbeigeführt: Völker wurden vernichtet, Landstriche verwüstet.
 
 Sie entspringen dem Tor, das [[Komet]]en öffnen.
 
