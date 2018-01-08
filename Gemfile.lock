@@ -1,19 +1,39 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    adsf (1.2.0)
-      rack (>= 1.0.0)
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
+    adsf (1.4.0)
+      rack (>= 1.0.0, < 3.0.0)
     colored (1.2)
-    cri (2.7.0)
+    concurrent-ruby (1.0.5)
+    cri (2.10.1)
       colored (~> 1.2)
-    kramdown (1.11.1)
-    mini_portile2 (2.0.0)
-    nanoc (4.1.6)
-      cri (~> 2.3)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
-    rack (1.6.4)
-    rake (10.5.0)
+    ddmemoize (1.0.0a3)
+      ddtelemetry (= 1.0.0a2)
+      ref (~> 2.0)
+    ddplugin (1.0.1)
+    ddtelemetry (1.0.0a2)
+    hamster (3.0.0)
+      concurrent-ruby (~> 1.0)
+    kramdown (1.16.2)
+    mini_portile2 (2.3.0)
+    nanoc (4.8.19)
+      addressable (~> 2.5)
+      cri (~> 2.8)
+      ddmemoize (= 1.0.0a3)
+      ddplugin (~> 1.0)
+      ddtelemetry (= 1.0.0a2)
+      hamster (~> 3.0)
+      ref (~> 2.0)
+      slow_enumerator_tools (~> 1.0)
+    nokogiri (1.8.1)
+      mini_portile2 (~> 2.3.0)
+    public_suffix (3.0.1)
+    rack (2.0.3)
+    rake (12.3.0)
+    ref (2.0.0)
+    slow_enumerator_tools (1.1.0)
 
 PLATFORMS
   ruby
@@ -22,8 +42,8 @@ DEPENDENCIES
   adsf (~> 1.2)
   kramdown (~> 1)
   nanoc (~> 4.1)
-  nokogiri (~> 1.6)
+  nokogiri (~> 1.8.1)
   rake
 
 BUNDLED WITH
-   1.11.2
+   1.16.0
